@@ -3,8 +3,13 @@ www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
-<img align="left" alt="medium" src="images/ruby.png" height="20"/>
+<img align="left" alt="medium" src="images/ruby.png" height="40"/>
+<img align="left" alt="medium" src="images/rails.png" height="40"/>
+<img align="left" alt="medium" src="images/js.png" height="40"/>
+<img align="left" alt="medium" src="images/react.png" height="40"/>
 
+
+<br/>
 <br/>
 
 - 🔭 I’m currently working on adding fun and useful projects to my portfolio.
