@@ -7,7 +7,7 @@ www.kiri-um.com
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 <br/>
 <hr/>
-Blog Posts
+<h2>Blog Posts</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <hr/>
