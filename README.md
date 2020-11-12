@@ -1,6 +1,20 @@
-### Hi there I'm Kiri Um👋
+### Hi there I'm Kiri Um👋  
+## [www.kiri-um.com]
 
-### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🍱 🌶
+### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+
+<hr/>
+##Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<hr/>
+
+
+
+
+[blog]: https://kirirotha.medium.com/
 
 
 <!--
