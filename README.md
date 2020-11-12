@@ -11,9 +11,9 @@ www.kiri-um.com
 <img align="left" alt="javascript" src="images/js.png" height="40"/>
 <img align="left" alt="react" src="images/react.png" height="40"/>
 
+<br/>
 <hr/>
-<br/>
-<br/>
+
 
 - 🔭 I’m currently working on adding fun and useful projects to my portfolio.
 - 🌱 I’m currently learning Node.js and AWS.
