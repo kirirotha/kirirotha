@@ -3,7 +3,7 @@ www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
-- 🔭 I’m currently working on adding useful projects to my portfolio.
+- 🔭 I’m currently working on adding fun and useful projects to my portfolio.
 - 🌱 I’m currently learning Node.js and AWS.
 - 👯 I’m looking to collaborate on open source projects on github
 
@@ -11,9 +11,9 @@ www.kiri-um.com
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 
-<br/>
+<!-- <br/>
 <hr/>
-<h2>Blog Posts</h2>
+<h2>Blog Posts</h2> -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <hr/>
