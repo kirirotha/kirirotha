@@ -1,5 +1,4 @@
-### Hi there I'm Kiri Um👋  
-## [www.kiri-um.com]
+### Hi there I'm Kiri Um👋  www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
