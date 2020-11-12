@@ -3,9 +3,9 @@ www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on adding useful projects to my portfolio.
+- 🌱 I’m currently learning Node.js and AWS.
+- 👯 I’m looking to collaborate on open source projects on github
 
 <hr/>
 
