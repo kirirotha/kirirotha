@@ -7,17 +7,20 @@ www.kiri-um.com
 - 🌱 I’m currently learning Node.js and AWS.
 - 👯 I’m looking to collaborate on open source projects on github
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <hr/>
 
+### Connect:
+
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
 
 <br/>
 <hr/>
 
-## Blog Posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -27,7 +30,7 @@ www.kiri-um.com
 
 
 [blog]: https://medium.com/@kirirotha
-
+[linkedin]: https://www.linkedin.com/in/kiri-um
 
 <!--
 **kirirotha/kirirotha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
