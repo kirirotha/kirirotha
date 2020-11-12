@@ -1,5 +1,8 @@
 ### Hi there I'm Kiri Um👋
 
+### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal.
+
+
 <!--
 **kirirotha/kirirotha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
