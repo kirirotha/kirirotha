@@ -3,7 +3,9 @@ www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
-<img align="left" alt="medium" src="images/ruby.png" />
+<img align="left" alt="medium" src="images/ruby.png" height="20"/>
+
+<br/>
 
 - 🔭 I’m currently working on adding fun and useful projects to my portfolio.
 - 🌱 I’m currently learning Node.js and AWS.
