@@ -1,6 +1,6 @@
 ### Hi there I'm Kiri Um👋
 
-### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal.
+### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🍱 🌶
 
 
 <!--
