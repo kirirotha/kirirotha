@@ -3,6 +3,7 @@ www.kiri-um.com
 
 ### I'm a full-stack developer, geologist, geophysicist, rock climber that can whip up a decent meal. 🌶
 
+### My Stack:
 <img align="left" alt="medium" src="images/ruby.png" height="40"/>
 <img align="left" alt="medium" src="images/rails.png" height="40"/>
 <img align="left" alt="medium" src="images/js.png" height="40"/>
