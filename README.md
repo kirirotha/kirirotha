@@ -36,11 +36,27 @@ www.kiri-um.com
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[https://medium.com/@kirirotha/quick-and-easy-data-visualization-for-ruby-on-rails-ba9d2786c0f2]
+
+[https://medium.com/@kirirotha/how-to-create-a-free-personal-website-using-github-e1e96746fdfc]
+
+[https://medium.com/@kirirotha/do-you-dream-in-code-4745550099a9]
+
+[https://medium.com/@kirirotha/intro-to-using-mapbox-with-react-ec0fb1d27086]
+
 <hr/>
 
-### Featured Projects
+### Featured Projects Videos
 
+[https://youtu.be/gLrrX8T-_j8]
 
+[https://youtu.be/ol5RBCK9_VU]
+
+[https://youtu.be/i0NvsCT_Pa4]
+
+[https://youtu.be/JJou4egZLu4]
+
+[https://youtu.be/u64NSyRjAZI]
 
 
 [blog]: https://medium.com/@kirirotha
