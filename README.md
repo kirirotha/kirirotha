@@ -49,7 +49,7 @@ www.kiri-um.com
 ### Featured Projects Videos
 
 <!-- <figure class="video_container"> -->
-  <iframe src="https://youtu.be/gLrrX8T-_j8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtube.com/embed/gLrrX8T-_j8" frameborder="0" allowfullscreen="true"> </iframe>
 <!-- </figure> -->
 
 <div align="left">
