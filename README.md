@@ -48,9 +48,9 @@ www.kiri-um.com
 
 ### Featured Projects Videos
 
-<figure class="video_container">
+<!-- <figure class="video_container"> -->
   <iframe src="https://youtu.be/gLrrX8T-_j8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<!-- </figure> -->
 
 [Projekt Camp](https://youtu.be/gLrrX8T-_j8)
 
