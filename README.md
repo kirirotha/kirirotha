@@ -38,15 +38,19 @@ www.kiri-um.com
 
 [Quick and Easy Data visualization Using Ruby on Rails](https://medium.com/@kirirotha/quick-and-easy-data-visualization-for-ruby-on-rails-ba9d2786c0f2)
 
-[How to Create a free Personal website Using Github][https://medium.com/@kirirotha/how-to-create-a-free-personal-website-using-github-e1e96746fdfc]
+[How to Create a free Personal website Using Github](https://medium.com/@kirirotha/how-to-create-a-free-personal-website-using-github-e1e96746fdfc)
 
-[https://medium.com/@kirirotha/do-you-dream-in-code-4745550099a9]
+[Do you Dream in Code?](https://medium.com/@kirirotha/do-you-dream-in-code-4745550099a9)
 
-[https://medium.com/@kirirotha/intro-to-using-mapbox-with-react-ec0fb1d27086]
+[Intro to Using Mapbox with ReactJS](https://medium.com/@kirirotha/intro-to-using-mapbox-with-react-ec0fb1d27086)
 
 <hr/>
 
 ### Featured Projects Videos
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/gLrrX8T-_j8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 [Projekt Camp](https://youtu.be/gLrrX8T-_j8)
 
