@@ -48,24 +48,48 @@ www.kiri-um.com
 
 ### Featured Projects Videos
 
-<figure class="video_container">
+<!-- <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/gLrrX8T-_j8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+</figure> -->
 
 <div align="left">
       <a href="https://youtu.be/gLrrX8T-_j8">
-         <img src="https://img.youtube.com/vi/gLrrX8T-_j8/0.jpg" style="width:100%; height:460px">
+         <img src="https://img.youtube.com/vi/gLrrX8T-_j8/0.jpg" style="width:560; height:315">
       </a>
 </div>
 
 [Projekt Camp](https://youtu.be/gLrrX8T-_j8)
 
+<br/>
+<div align="left">
+      <a href="https://youtu.be/ol5RBCK9_VU">
+         <img src="https://img.youtube.com/vi/ol5RBCK9_VU/0.jpg" style="width:100%; height:460px">
+      </a>
+</div>
 [Crabble](https://youtu.be/ol5RBCK9_VU)
 
+<br/>
+<div align="left">
+      <a href="https://youtu.be/i0NvsCT_Pa4">
+         <img src="https://img.youtube.com/vi/i0NvsCT_Pa4/0.jpg" style="width:100%; height:460px">
+      </a>
+</div>
 [Tactics Lite](https://youtu.be/i0NvsCT_Pa4)
 
+<br/>
+<div align="left">
+      <a href="https://youtu.be/JJou4egZLu4">
+         <img src="https://img.youtube.com/vi/JJou4egZLu4/0.jpg" style="width:100%; height:460px">
+      </a>
+</div>
 [Jmakon](https://youtu.be/JJou4egZLu4)
 
+<br/>
+<div align="left">
+      <a href="https://youtu.be/u64NSyRjAZI">
+         <img src="https://img.youtube.com/vi/u64NSyRjAZI/0.jpg" style="width:100%; height:460px">
+      </a>
+</div>
 [Compendium](https://youtu.be/u64NSyRjAZI)
 
 
