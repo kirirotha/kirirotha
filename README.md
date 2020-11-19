@@ -54,7 +54,7 @@ www.kiri-um.com
 
 <div align="left">
       <a href="https://youtu.be/gLrrX8T-_j8">
-         <img src="https://img.youtube.com/vi/gLrrX8T-_j8/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/gLrrX8T-_j8/0.jpg" style="width:100%; height:100%">
       </a>
 </div>
 
