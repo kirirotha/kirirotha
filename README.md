@@ -48,7 +48,7 @@ www.kiri-um.com
 
 ### Featured Projects Videos
 
-[https://youtu.be/gLrrX8T-_j8]
+[Quick and Easy Data visualization Using Ruby on Rails][https://youtu.be/gLrrX8T-_j8]
 
 [https://youtu.be/ol5RBCK9_VU]
 
