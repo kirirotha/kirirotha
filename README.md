@@ -36,9 +36,9 @@ www.kiri-um.com
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[https://medium.com/@kirirotha/quick-and-easy-data-visualization-for-ruby-on-rails-ba9d2786c0f2]
+[Quick and Easy Data visualization Using Ruby on Rails](https://medium.com/@kirirotha/quick-and-easy-data-visualization-for-ruby-on-rails-ba9d2786c0f2)
 
-[https://medium.com/@kirirotha/how-to-create-a-free-personal-website-using-github-e1e96746fdfc]
+[How to Create a free Personal website Using Github][https://medium.com/@kirirotha/how-to-create-a-free-personal-website-using-github-e1e96746fdfc]
 
 [https://medium.com/@kirirotha/do-you-dream-in-code-4745550099a9]
 
@@ -48,15 +48,15 @@ www.kiri-um.com
 
 ### Featured Projects Videos
 
-[Quick and Easy Data visualization Using Ruby on Rails](https://youtu.be/gLrrX8T-_j8)
+[Projekt Camp](https://youtu.be/gLrrX8T-_j8)
 
-[https://youtu.be/ol5RBCK9_VU]
+[Crabble](https://youtu.be/ol5RBCK9_VU)
 
-[https://youtu.be/i0NvsCT_Pa4]
+[Tactics Lite](https://youtu.be/i0NvsCT_Pa4)
 
-[https://youtu.be/JJou4egZLu4]
+[Jmakon](https://youtu.be/JJou4egZLu4)
 
-[https://youtu.be/u64NSyRjAZI]
+[Compendium](https://youtu.be/u64NSyRjAZI)
 
 
 [blog]: https://medium.com/@kirirotha
