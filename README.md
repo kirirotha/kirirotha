@@ -16,7 +16,7 @@ www.kiri-um.com
 
 
 - 🔭 I’m currently working on adding fun and useful projects to my portfolio.
-- 🌱 I’m currently learning Node.js and AWS.
+- 🌱 I’m currently learning Java, Angular and AWS.
 - 👯 I’m looking to collaborate on open source projects on github
 
 
